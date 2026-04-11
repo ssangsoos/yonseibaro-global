@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "title": "ヨンセバロ歯科ネットワーク — 韓国のクリアアライナー＆スマイルデザイン",
+    "description": "韓国最大のクリアアライナー＆ノンプレップスマイルデザインネットワーク。インビザライン・パープルダイヤモンドプロバイダー。全国14院。"
+  },
+  "topbar": {
+    "cta": "無料相談 →"
+  },
+  "nav": {
+    "whoIsThisFor": "こんな方へ",
+    "treatments": "治療内容",
+    "cases": "症例",
+    "network": "ネットワーク",
+    "getConsultation": "相談する"
+  },
+  "hero": {
+    "label": "ヨンセバロ歯科ネットワーク · 韓国",
+    "titleLine1": "韓国を",
+    "titleLine2": "訪れる方も、",
+    "titleLine3": "お住まいの方も —",
+    "subtitle": "クリアアライナーとスマイルデザイン治療は、{highlight}から。韓国で最も信頼される矯正ネットワーク、日本語対応。",
+    "subtitleHighlight": "一回の会話",
+    "ctaPrimary": "無料相談を受ける",
+    "ctaSecondary": "自分に合う？",
+    "note": "負担なし · 24時間以内に返信 · EN · JP · ZH · TH",
+    "badgePurpleDiamond": "パープルダイヤモンドプロバイダー",
+    "badgePurpleDiamondSub": "インビザライン最上位認定",
+    "badgeBranches": "院",
+    "badgeBranchesSub": "韓国全土"
+  },
+  "trust": {
+    "purpleDiamond": "パープルダイヤモンドプロバイダー",
+    "purpleDiamondSub": "インビザライン最上位認定",
+    "yonseiTrained": "延世大学出身",
+    "yonseiTrainedSub": "セブランス歯科病院研修",
+    "branches": "全国14院",
+    "branchesSub": "韓国のどこでも",
+    "multilingual": "多言語対応",
+    "multilingualSub": "EN · JP · ZH · TH — 韓国語不要"
+  },
+  "twoPath": {
+    "label": "こんな方へ",
+    "title": "2つのタイプの患者様。",
+    "titleEm": "どちらも歓迎します。",
+    "subtitle": "韓国にお住まいの方も、旅行で訪れる方も — あなたの生活に合わせた治療プロセスをご用意。",
+    "pathA": {
+      "emoji": "🏠",
+      "title": "韓国在住の",
+      "titleEm": "外国人の方？",
+      "desc": "すでに韓国にお住まいなら、航空券もプランニングも不要。多言語チームが初日からスムーズにサポートします。",
+      "points": [
+        "日本語・英語・中国語・タイ語での相談",
+        "14院 — お近くの院を選べます",
+        "通常の通院スケジュール — 特別な手続き不要",
+        "最短で治療開始"
+      ],
+      "cta": "相談を予約"
+    },
+    "pathB": {
+      "emoji": "✈️",
+      "title": "韓国旅行を",
+      "titleEm": "ご計画中？",
+      "desc": "韓国旅行に世界水準の矯正治療を組み合わせ。旅行スケジュールに合わせた治療計画 — 年1〜2回の来院で対応可能。",
+      "points": [
+        "まず写真を送信 — 渡韓前にオンライン評価",
+        "来院スケジュールに合わせた治療計画",
+        "推奨6ヶ月ごと — 年1回でも可能",
+        "コーディネーターが最初から最後までサポート"
+      ],
+      "cta": "写真を送る"
+    }
+  },
+  "treatment": {
+    "label": "治療内容",
+    "title": "2つの治療。",
+    "titleEm": "一つの目標。",
+    "subtitle": "ヨンセバロの全症例は、機能的・審美的・持続的な結果を追求します。",
+    "aligner": {
+      "tag": "クリアアライナー",
+      "name": "見えない矯正治療",
+      "line": "誰にも気づかれずに歯並びを整える。",
+      "brands": ["★ インビザライン — パープルダイヤモンド", "エンジェルアライナー"],
+      "points": [
+        "カスタム3Dプラン — スキャンからお届けまで",
+        "複雑な症例・再治療・抜歯ケースも歓迎",
+        "生活に合わせたスケジュール — 月1回の通院に縛られない",
+        "グローバルギャラリーで国際的に症例を公開"
+      ],
+      "cta": "クリアアライナーについて相談"
+    },
+    "laminate": {
+      "tag": "ノンプレップラミネート",
+      "name": "スマイルリデザイン",
+      "line": "超薄型セラミック。歯を削らない。",
+      "brands": ["ジェラミエ — ノンプレップシステム"],
+      "points": [
+        "削らない、磨かない — 完全に可逆的",
+        "デジタルスマイルデザインによる自然な透明感",
+        "すべての症例が対象ではありません — まず写真で評価",
+        "クリアアライナーと組み合わせてトータルスマイルリデザイン"
+      ],
+      "cta": "適格性を確認"
+    }
+  },
+  "cases": {
+    "label": "実績",
+    "title": "症例と結果",
+    "filterAll": "すべて",
+    "filterAligner": "クリアアライナー",
+    "filterLaminate": "ノンプレップラミネート",
+    "tabBefore": "治療前",
+    "tabDuring": "治療中",
+    "tabAfter": "治療後",
+    "ctaMore": "症例レビューを依頼",
+    "comingSoon": "近日公開",
+    "photoPlaceholder": "写真準備中"
+  },
+  "team": {
+    "label": "チーム",
+    "title": "結果を生み出す",
+    "titleEm": "ドクターたち。",
+    "desc": "ヨンセバロの全矯正医は延世大学・セブランス歯科病院で研修を修了 — 韓国最高水準の学術的背景。14院すべてで同じ基準。",
+    "statBranches": "院",
+    "statOrthodontists": "矯正医",
+    "statTrained": "延世出身",
+    "quote": "「すべての院が同じ臨床基準を共有。韓国のどこで受診しても、同じ手で治療を受けられます。」",
+    "quoteAuthor": "— ヨンセバロ歯科ネットワーク"
+  },
+  "network": {
+    "label": "ネットワーク",
+    "title": "14院。",
+    "titleEm": "韓国全土に展開。",
+    "desc": "韓国旅行のどこに行っても — ソウル、仁川、京畿、大田など全国をカバー。どの院でも一貫したフォローアップケア。",
+    "openInMaps": "Googleマップで開く",
+    "openingSoon": "近日オープン"
+  },
+  "contact": {
+    "label": "始めましょう",
+    "title": "まずは無料の",
+    "titleEm": "オンライン相談から。",
+    "desc": "写真をお送りください。症例を評価します — 負担なし、プレッシャーなし。24時間以内にご希望の言語で返信。",
+    "kakao": "KakaoTalk",
+    "kakaoId": "検索: Yonsei Baro Korea",
+    "line": "LINE",
+    "lineId": "ID: yonseibaro.korea",
+    "whatsapp": "WhatsApp",
+    "whatsappId": "Yonsei Baro Korea",
+    "chatNow": "チャットする",
+    "responseNote": "24時間以内に返信 · EN, JP, ZH, TH対応",
+    "formTitle": "オンライン相談フォーム",
+    "formSubtitle": "情報をご記入ください — 写真があればお添えください。",
+    "labelName": "お名前 *",
+    "labelCountry": "居住国 *",
+    "labelEmail": "メールアドレス *",
+    "labelLanguage": "希望言語 *",
+    "labelTreatment": "関心のある治療 *",
+    "labelMessage": "ご状況をお聞かせください",
+    "placeholderName": "お名前",
+    "placeholderCountry": "国を選択",
+    "placeholderEmail": "your@email.com",
+    "placeholderLanguage": "言語を選択",
+    "placeholderTreatment": "関心のある治療は？",
+    "placeholderMessage": "例：東京在住で、夏に韓国訪問予定。以前矯正したが、やり直したい...",
+    "countries": ["日本", "中国", "台湾", "タイ", "シンガポール", "アメリカ", "オーストラリア", "韓国（在住外国人）", "その他"],
+    "languages": ["English", "日本語", "中文简体", "中文繁體", "ภาษาไทย"],
+    "treatments": ["インビザライン（クリアアライナー）", "エンジェルアライナー（クリアアライナー）", "ノンプレップラミネート", "わからない — ご提案ください"],
+    "uploadTitle": "📷 歯の写真を添付（推奨）",
+    "uploadDesc": "正面の笑顔 · 横顔 · 上下の歯列",
+    "uploadDone": "ファイル添付済み",
+    "uploadChange": "クリックして変更",
+    "privacy": "ご提供いただいた情報は相談目的のみに使用され、第三者に共有されることはありません。送信により、プライバシーポリシーに同意したものとみなされます。",
+    "submit": "相談リクエストを送信 →"
+  },
+  "footer": {
+    "tagline": "韓国で最も信頼されるクリアアライナー＆ノンプレップスマイルデザインネットワーク — 全国14院、最高を求める患者様のために。",
+    "colTreatments": "治療内容",
+    "colInfo": "情報",
+    "colContact": "お問い合わせ",
+    "onlineConsultation": "オンライン相談",
+    "copyright": "© 2026 ヨンセバロ歯科ネットワーク. All rights reserved.",
+    "operated": "運営: Smile-up Co., Ltd.",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約"
+  }
+}

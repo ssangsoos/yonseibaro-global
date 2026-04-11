@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "title": "Yonsei Baro Dental Network — Clear Aligner & Smile Design in Korea",
+    "description": "Korea's leading clear aligner and no-prep smile design network. Invisalign Purple Diamond Provider. 14 branches nationwide."
+  },
+  "topbar": {
+    "cta": "Free Consultation →"
+  },
+  "nav": {
+    "whoIsThisFor": "Who Is This For?",
+    "treatments": "Treatments",
+    "cases": "Cases",
+    "network": "Network",
+    "getConsultation": "Get Consultation"
+  },
+  "hero": {
+    "label": "Yonsei Baro Dental Network · Korea",
+    "titleLine1": "Whether you're",
+    "titleLine2": "visiting Korea",
+    "titleLine3": "or already here —",
+    "subtitle": "Your clear aligner and smile design treatment starts with {highlight}. Korea's most trusted orthodontic network, now speaking your language.",
+    "subtitleHighlight": "one conversation.",
+    "ctaPrimary": "Get Free Consultation",
+    "ctaSecondary": "Is this right for me?",
+    "note": "No commitment · Response within 24h · EN · JP · ZH · TH",
+    "badgePurpleDiamond": "Purple Diamond Provider",
+    "badgePurpleDiamondSub": "Invisalign top-tier certified",
+    "badgeBranches": "Branches",
+    "badgeBranchesSub": "across Korea"
+  },
+  "trust": {
+    "purpleDiamond": "Purple Diamond Provider",
+    "purpleDiamondSub": "Invisalign top-tier certified",
+    "yonseiTrained": "Yonsei University Trained",
+    "yonseiTrainedSub": "Severance Dental Hospital background",
+    "branches": "14 Branches Nationwide",
+    "branchesSub": "Wherever you visit in Korea",
+    "multilingual": "Multilingual Support",
+    "multilingualSub": "EN · JP · ZH · TH — no Korean needed"
+  },
+  "twoPath": {
+    "label": "Who Is This For?",
+    "title": "Two types of patients.",
+    "titleEm": "Both welcome.",
+    "subtitle": "Whether you already live in Korea or you're planning a visit — we've built a process that works around your life.",
+    "pathA": {
+      "emoji": "🏠",
+      "title": "Living in Korea",
+      "titleEm": "as a foreigner?",
+      "desc": "You're already here — no flights, no planning. Just come in and let's get started. Our multilingual team makes the whole process easy from day one.",
+      "points": [
+        "Consultation in English, Japanese, Chinese, or Thai",
+        "14 branches — find one close to where you live",
+        "Standard visit schedule — no special protocol needed",
+        "Fastest path to starting treatment"
+      ],
+      "cta": "Book a Consultation"
+    },
+    "pathB": {
+      "emoji": "✈️",
+      "title": "Planning a trip",
+      "titleEm": "to Korea?",
+      "desc": "Combine your Korea visit with world-class orthodontic care. We plan treatment around your travel schedule — as little as one or two visits a year.",
+      "points": [
+        "Send photos first — we assess online before you travel",
+        "Treatment timeline planned around your visits",
+        "Recommended every 6 months — once a year possible",
+        "Coordinator guides you from first contact to final result"
+      ],
+      "cta": "Send My Photos"
+    }
+  },
+  "treatment": {
+    "label": "What We Do",
+    "title": "Two treatments.",
+    "titleEm": "One goal.",
+    "subtitle": "Every case at Yonsei Baro is about the result — functional, aesthetic, and lasting.",
+    "aligner": {
+      "tag": "Clear Aligner",
+      "name": "Invisible Orthodontics",
+      "line": "Straighten teeth without anyone knowing.",
+      "brands": ["★ Invisalign — Purple Diamond", "Angel Aligner"],
+      "points": [
+        "Custom 3D plan — from scan to delivery",
+        "Complex cases, retreatment, extraction cases welcome",
+        "Schedule designed around your life — not fixed monthly visits",
+        "Cases published through Global Gallery internationally"
+      ],
+      "cta": "Ask About Clear Aligners"
+    },
+    "laminate": {
+      "tag": "No-Prep Laminate",
+      "name": "Smile Redesign",
+      "line": "Ultra-thin ceramic. Zero tooth reduction.",
+      "brands": ["Gelamiè — No-Prep System"],
+      "points": [
+        "No drilling, no grinding — fully reversible",
+        "Natural translucency with digital smile design",
+        "Not all cases qualify — we assess your photos first",
+        "Combinable with clear aligner for full smile redesign"
+      ],
+      "cta": "Check My Suitability"
+    }
+  },
+  "cases": {
+    "label": "Real Results",
+    "title": "Cases & Results",
+    "filterAll": "All",
+    "filterAligner": "Clear Aligner",
+    "filterLaminate": "No-Prep Laminate",
+    "tabBefore": "Before",
+    "tabDuring": "During",
+    "tabAfter": "After",
+    "ctaMore": "Request a Full Case Review",
+    "comingSoon": "Coming soon",
+    "photoPlaceholder": "Photo pending"
+  },
+  "team": {
+    "label": "Our Team",
+    "title": "The doctors",
+    "titleEm": "behind the results.",
+    "desc": "Every Yonsei Baro orthodontist completed training at Yonsei University and Severance Dental Hospital — Korea's most rigorous academic background. A shared standard across all 14 branches.",
+    "statBranches": "Branches",
+    "statOrthodontists": "Orthodontists",
+    "statTrained": "Yonsei-trained",
+    "quote": "\"Every branch shares the same clinical standard. Wherever you visit in Korea, you're in the same hands.\"",
+    "quoteAuthor": "— Yonsei Baro Dental Network"
+  },
+  "network": {
+    "label": "Our Network",
+    "title": "14 branches.",
+    "titleEm": "All across Korea.",
+    "desc": "Wherever your Korean trip takes you — our branches cover Seoul, Incheon, Gyeonggi, Daejeon and beyond. Follow-up care stays consistent across all locations.",
+    "openInMaps": "Open in Google Maps",
+    "openingSoon": "Opening Soon"
+  },
+  "contact": {
+    "label": "Get Started",
+    "title": "Start with a free",
+    "titleEm": "online consultation.",
+    "desc": "Send us your photos and we'll assess your case — no commitment, no pressure. We respond in your language within 24 hours.",
+    "kakao": "KakaoTalk",
+    "kakaoId": "Search: Yonsei Baro Korea",
+    "line": "LINE",
+    "lineId": "ID: yonseibaro.korea",
+    "whatsapp": "WhatsApp",
+    "whatsappId": "Yonsei Baro Korea",
+    "chatNow": "Chat Now",
+    "responseNote": "We respond within 24 hours · Available in EN, JP, ZH, TH",
+    "formTitle": "Online Consultation Request",
+    "formSubtitle": "Fill in your details — attach photos if you have them.",
+    "labelName": "Full Name *",
+    "labelCountry": "Country of Residence *",
+    "labelEmail": "Email Address *",
+    "labelLanguage": "Preferred Language *",
+    "labelTreatment": "Treatment Interest *",
+    "labelMessage": "Tell us about your situation",
+    "placeholderName": "Your name",
+    "placeholderCountry": "Select country",
+    "placeholderEmail": "your@email.com",
+    "placeholderLanguage": "Select language",
+    "placeholderTreatment": "What are you interested in?",
+    "placeholderMessage": "e.g. I live in Tokyo and plan to visit Korea in summer. I've had braces before and want to redo...",
+    "countries": ["Japan", "China", "Taiwan", "Thailand", "Singapore", "United States", "Australia", "Korea (Resident Foreigner)", "Other"],
+    "languages": ["English", "Japanese (日本語)", "Chinese Simplified (中文简体)", "Chinese Traditional (中文繁體)", "Thai (ภาษาไทย)"],
+    "treatments": ["Invisalign (Clear Aligner)", "Angel Aligner (Clear Aligner)", "No-Prep Laminate", "Not sure — please advise"],
+    "uploadTitle": "📷 Attach dental photos (recommended)",
+    "uploadDesc": "Front smile · Side profile · Upper & lower arch",
+    "uploadDone": "file(s) attached",
+    "uploadChange": "Click to change selection",
+    "privacy": "Your information is used solely for consultation purposes and will not be shared with third parties. By submitting you agree to our privacy policy.",
+    "submit": "Send Consultation Request →"
+  },
+  "footer": {
+    "tagline": "Korea's most trusted clear aligner and no-prep smile design network — 14 branches nationwide, built for patients who expect the best.",
+    "colTreatments": "Treatments",
+    "colInfo": "Information",
+    "colContact": "Contact",
+    "onlineConsultation": "Online Consultation",
+    "copyright": "© 2026 Yonsei Baro Dental Network. All rights reserved.",
+    "operated": "Operated by Smile-up Co., Ltd.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use"
+  }
+}

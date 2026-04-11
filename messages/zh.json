@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "title": "延世BARO牙科网络 — 韩国隐形矫正与微笑设计",
+    "description": "韩国领先的隐形矫正与免磨牙微笑设计网络。Invisalign紫钻级认证。全国14家分院。"
+  },
+  "topbar": {
+    "cta": "免费咨询 →"
+  },
+  "nav": {
+    "whoIsThisFor": "适合人群",
+    "treatments": "治疗项目",
+    "cases": "案例",
+    "network": "分院网络",
+    "getConsultation": "在线咨询"
+  },
+  "hero": {
+    "label": "延世BARO牙科网络 · 韩国",
+    "titleLine1": "无论您是",
+    "titleLine2": "即将来韩，",
+    "titleLine3": "还是已在韩国 —",
+    "subtitle": "您的隐形矫正与微笑设计治疗，从{highlight}开始。韩国最值得信赖的矫正网络，提供中文服务。",
+    "subtitleHighlight": "一次对话",
+    "ctaPrimary": "获取免费咨询",
+    "ctaSecondary": "适合我吗？",
+    "note": "无需承诺 · 24小时内回复 · EN · JP · ZH · TH",
+    "badgePurpleDiamond": "紫钻级认证",
+    "badgePurpleDiamondSub": "Invisalign最高等级认证",
+    "badgeBranches": "家分院",
+    "badgeBranchesSub": "遍布韩国"
+  },
+  "trust": {
+    "purpleDiamond": "紫钻级认证",
+    "purpleDiamondSub": "Invisalign最高等级认证",
+    "yonseiTrained": "延世大学培训",
+    "yonseiTrainedSub": "Severance牙科医院背景",
+    "branches": "全国14家分院",
+    "branchesSub": "韩国各地均有分院",
+    "multilingual": "多语言服务",
+    "multilingualSub": "EN · JP · ZH · TH — 无需韩语"
+  },
+  "twoPath": {
+    "label": "适合人群",
+    "title": "两类患者。",
+    "titleEm": "都欢迎。",
+    "subtitle": "无论您已居住在韩国，还是计划来韩旅行 — 我们为您量身定制的流程，配合您的生活安排。",
+    "pathA": {
+      "emoji": "🏠",
+      "title": "在韩国生活的",
+      "titleEm": "外国人？",
+      "desc": "您已在韩国 — 无需航班、无需规划。直接来就诊。我们的多语言团队从第一天起让整个过程轻松自如。",
+      "points": [
+        "中文、英语、日语、泰语咨询",
+        "14家分院 — 就近选择",
+        "标准就诊安排 — 无需特殊流程",
+        "最快速启动治疗"
+      ],
+      "cta": "预约咨询"
+    },
+    "pathB": {
+      "emoji": "✈️",
+      "title": "计划来",
+      "titleEm": "韩国旅行？",
+      "desc": "将韩国旅行与世界级矫正治疗相结合。我们根据您的旅行安排制定治疗计划 — 一年只需来访一到两次。",
+      "points": [
+        "先发送照片 — 旅行前在线评估",
+        "根据您的来访安排制定治疗时间表",
+        "建议每6个月 — 每年一次也可以",
+        "协调员从首次联系到最终结果全程指导"
+      ],
+      "cta": "发送我的照片"
+    }
+  },
+  "treatment": {
+    "label": "治疗项目",
+    "title": "两种治疗。",
+    "titleEm": "一个目标。",
+    "subtitle": "在延世BARO，每一个案例都追求功能性、美观性和持久性的结果。",
+    "aligner": {
+      "tag": "隐形矫正",
+      "name": "隐形正畸",
+      "line": "在无人察觉中排齐牙齿。",
+      "brands": ["★ Invisalign — 紫钻级", "天使隐形矫正"],
+      "points": [
+        "定制3D方案 — 从扫描到交付",
+        "欢迎复杂案例、再治疗、拔牙病例",
+        "配合您的生活安排 — 不限于固定月度就诊",
+        "通过Global Gallery在国际上发布案例"
+      ],
+      "cta": "咨询隐形矫正"
+    },
+    "laminate": {
+      "tag": "免磨牙贴面",
+      "name": "微笑重塑",
+      "line": "超薄陶瓷。零磨牙。",
+      "brands": ["Gelamiè — 免磨牙系统"],
+      "points": [
+        "不钻、不磨 — 完全可逆",
+        "数字微笑设计带来自然通透感",
+        "并非所有案例都适合 — 先评估照片",
+        "可与隐形矫正结合进行全面微笑重塑"
+      ],
+      "cta": "确认是否适合"
+    }
+  },
+  "cases": {
+    "label": "真实案例",
+    "title": "案例与成果",
+    "filterAll": "全部",
+    "filterAligner": "隐形矫正",
+    "filterLaminate": "免磨牙贴面",
+    "tabBefore": "治疗前",
+    "tabDuring": "治疗中",
+    "tabAfter": "治疗后",
+    "ctaMore": "申请完整案例评估",
+    "comingSoon": "即将上线",
+    "photoPlaceholder": "照片准备中"
+  },
+  "team": {
+    "label": "团队",
+    "title": "创造成果的",
+    "titleEm": "医生们。",
+    "desc": "延世BARO的每一位矫正医生都在延世大学和Severance牙科医院完成培训 — 韩国最严格的学术背景。14家分院共享同一标准。",
+    "statBranches": "家分院",
+    "statOrthodontists": "矫正医生",
+    "statTrained": "延世培训",
+    "quote": "\"每家分院共享相同的临床标准。无论您在韩国哪里就诊，都是同样的专业水准。\"",
+    "quoteAuthor": "— 延世BARO牙科网络"
+  },
+  "network": {
+    "label": "分院网络",
+    "title": "14家分院。",
+    "titleEm": "遍布韩国全境。",
+    "desc": "无论您的韩国之旅去往何处 — 我们的分院覆盖首尔、仁川、京畿、大田等地。所有地点提供一致的后续护理。",
+    "openInMaps": "在Google地图中打开",
+    "openingSoon": "即将开业"
+  },
+  "contact": {
+    "label": "开始",
+    "title": "从免费的",
+    "titleEm": "在线咨询开始。",
+    "desc": "发送您的照片，我们将评估您的案例 — 无需承诺，无压力。24小时内以您的语言回复。",
+    "kakao": "KakaoTalk",
+    "kakaoId": "搜索: Yonsei Baro Korea",
+    "line": "LINE",
+    "lineId": "ID: yonseibaro.korea",
+    "whatsapp": "WhatsApp",
+    "whatsappId": "Yonsei Baro Korea",
+    "chatNow": "立即聊天",
+    "responseNote": "24小时内回复 · 支持 EN, JP, ZH, TH",
+    "formTitle": "在线咨询申请",
+    "formSubtitle": "填写您的信息 — 如有照片请附上。",
+    "labelName": "姓名 *",
+    "labelCountry": "居住国家 *",
+    "labelEmail": "电子邮箱 *",
+    "labelLanguage": "首选语言 *",
+    "labelTreatment": "感兴趣的治疗 *",
+    "labelMessage": "请描述您的情况",
+    "placeholderName": "您的姓名",
+    "placeholderCountry": "选择国家",
+    "placeholderEmail": "your@email.com",
+    "placeholderLanguage": "选择语言",
+    "placeholderTreatment": "您感兴趣的治疗是？",
+    "placeholderMessage": "例如：我住在上海，计划夏天去韩国。之前做过矫正，想重新做...",
+    "countries": ["日本", "中国", "台湾", "泰国", "新加坡", "美国", "澳大利亚", "韩国（在韩外国人）", "其他"],
+    "languages": ["English", "日本語", "中文简体", "中文繁體", "ภาษาไทย"],
+    "treatments": ["Invisalign（隐形矫正）", "天使隐形矫正", "免磨牙贴面", "不确定 — 请建议"],
+    "uploadTitle": "📷 附上牙齿照片（推荐）",
+    "uploadDesc": "正面微笑 · 侧面 · 上下牙弓",
+    "uploadDone": "个文件已附上",
+    "uploadChange": "点击更换选择",
+    "privacy": "您提供的信息仅用于咨询目的，不会与第三方共享。提交即表示您同意我们的隐私政策。",
+    "submit": "发送咨询申请 →"
+  },
+  "footer": {
+    "tagline": "韩国最值得信赖的隐形矫正与免磨牙微笑设计网络 — 全国14家分院，为追求卓越的患者而建。",
+    "colTreatments": "治疗项目",
+    "colInfo": "信息",
+    "colContact": "联系我们",
+    "onlineConsultation": "在线咨询",
+    "copyright": "© 2026 延世BARO牙科网络. All rights reserved.",
+    "operated": "运营方: Smile-up Co., Ltd.",
+    "privacy": "隐私政策",
+    "terms": "使用条款"
+  }
+}
