@@ -114,14 +114,27 @@ button { cursor: pointer; font-family: var(--font-body); border: none; backgroun
 .nav-link:hover { color: var(--navy); }
 
 /* ══ HERO ══ */
-.hero { background: var(--navy); padding: 80px 0 72px; position: relative; overflow: hidden; }
+.hero { background: var(--navy); padding: 72px 0 0; position: relative; overflow: hidden; }
 .hero::before {
   content: ''; position: absolute; top: -200px; right: -150px;
   width: 600px; height: 600px;
   background: radial-gradient(circle, rgba(107,79,160,.3) 0%, transparent 65%);
   pointer-events: none;
 }
-.hero-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 60px; align-items: center; position: relative; z-index: 1; }
+.hero-top { display: flex; align-items: flex-start; justify-content: space-between; gap: 40px; position: relative; z-index: 1; margin-bottom: 48px; }
+.hero-text { flex: 1; max-width: 600px; }
+.hero-badges-side { display: flex; flex-direction: column; gap: 14px; flex-shrink: 0; padding-top: 20px; }
+.hero-badge-inline {
+  background: var(--white); border-radius: var(--r-md);
+  box-shadow: var(--shadow-lg); padding: 14px 18px;
+  display: flex; align-items: center; gap: 11px;
+}
+.hero-badge-purple {
+  background: var(--purple); color: var(--white);
+  flex-direction: row; text-align: left; gap: 12px;
+}
+.hero-badge-purple .badge-num { font-family: var(--font-display); font-size: 2.4rem; font-weight: 600; line-height: 1; }
+.hero-badge-purple .badge-desc { font-size: 12px; opacity: .75; }
 .origin-pills { display: flex; flex-wrap: wrap; gap: 7px; margin-bottom: 20px; }
 .origin-pill { font-size: 12px; font-weight: 500; color: rgba(255,255,255,.72); background: rgba(255,255,255,.08); border: 1px solid rgba(255,255,255,.12); border-radius: 100px; padding: 4px 11px; }
 .hero-title { margin-bottom: 22px; }
@@ -129,6 +142,11 @@ button { cursor: pointer; font-family: var(--font-body); border: none; backgroun
 .hero-sub strong { color: rgba(255,255,255,.9); }
 .hero-btns { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 22px; }
 .hero-note { font-size: 12px; color: rgba(255,255,255,.32); }
+.hero-photo-wide {
+  width: 100%; aspect-ratio: 16/6; border-radius: var(--r-lg) var(--r-lg) 0 0;
+  overflow: hidden; position: relative; z-index: 1;
+}
+/* legacy classes kept for compatibility */
 .hero-visual { position: relative; }
 .hero-img { width: 100%; aspect-ratio: 4/5; border-radius: var(--r-lg); overflow: hidden; }
 .hero-img .ph { height: 100%; border-radius: var(--r-lg); }
@@ -340,6 +358,9 @@ button { cursor: pointer; font-family: var(--font-body); border: none; backgroun
 
 /* ══ RESPONSIVE ══ */
 @media (max-width: 960px) {
+  .hero-top { flex-direction: column; gap: 24px; }
+  .hero-badges-side { flex-direction: row; flex-wrap: wrap; }
+  .hero-photo-wide { aspect-ratio: 16/7; }
   .hero-grid { grid-template-columns: 1fr; gap: 40px; }
   .hero-visual { order: -1; }
   .hb-1, .hb-2 { display: none; }

@@ -17,8 +17,9 @@ export default function Hero() {
   return (
     <section className="hero" id="top">
       <div className="container">
-        <div className="hero-grid">
-          <div>
+        {/* Text + Buttons */}
+        <div className="hero-top">
+          <div className="hero-text">
             <div className="origin-pills">
               {origins.map((o) => (
                 <span key={o.name} className="origin-pill">{o.flag} {o.name}</span>
@@ -46,18 +47,8 @@ export default function Hero() {
             </div>
             <p className="hero-note">{t('note')}</p>
           </div>
-          <div className="hero-visual">
-            <div className="hero-img">
-              <Image
-                src="/images/team.jpg"
-                alt="Yonsei Baro Dental Network"
-                width={600}
-                height={750}
-                style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'center top', borderRadius: 'var(--r-lg)' }}
-                priority
-              />
-            </div>
-            <div className="hero-badge hb-1">
+          <div className="hero-badges-side">
+            <div className="hero-badge-inline">
               <div className="badge-icon">
                 <svg fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
               </div>
@@ -66,11 +57,23 @@ export default function Hero() {
                 <span>{t('badgePurpleDiamondSub')}</span>
               </div>
             </div>
-            <div className="hero-badge hb-2">
+            <div className="hero-badge-inline hero-badge-purple">
               <span className="badge-num">14</span>
-              <span className="badge-desc">{t('badgeBranches')}<br />{t('badgeBranchesSub')}</span>
+              <span className="badge-desc">{t('badgeBranches')} {t('badgeBranchesSub')}</span>
             </div>
           </div>
+        </div>
+
+        {/* Full-width landscape team photo */}
+        <div className="hero-photo-wide">
+          <Image
+            src="/images/team.jpg"
+            alt="Yonsei Baro Dental Network — Our orthodontist team"
+            width={1160}
+            height={420}
+            style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'center center' }}
+            priority
+          />
         </div>
       </div>
     </section>

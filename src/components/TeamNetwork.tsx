@@ -18,7 +18,7 @@ export default function TeamNetwork() {
             <p className="team-desc">{tTeam('desc')}</p>
             <div className="team-stats">
               <div className="team-stat">
-                <span className="stat-num">14</span>
+                <span className="stat-num">{activeBranches.length}</span>
                 <span className="stat-label">{tTeam('statBranches')}</span>
               </div>
               <div className="team-stat">
@@ -42,14 +42,14 @@ export default function TeamNetwork() {
             <p className="net-desc">{tNet('desc')}</p>
             <div className="map-wrap">
               <iframe
-                src="https://maps.google.com/maps?q=%EC%97%B0%EC%84%B8%EB%B0%94%EB%A1%9C%EC%B9%98%EA%B3%BC&output=embed&z=10&hl=en"
+                src="https://maps.google.com/maps?q=%EC%95%95%EA%B5%AC%EC%A0%95+%EC%97%B0%EC%84%B8%EB%B0%94%EB%A1%9C%EC%B9%98%EA%B3%BC&output=embed&z=8&hl=en"
                 allowFullScreen
                 loading="lazy"
                 title="Yonsei Baro Dental Network Branches"
               />
               <a
                 className="map-open-btn"
-                href="https://www.google.com/maps/search/%EC%97%B0%EC%84%B8%EB%B0%94%EB%A1%9C%EC%B9%98%EA%B3%BC/@37.45,127.05,10z"
+                href="https://www.google.com/maps/search/%EC%95%95%EA%B5%AC%EC%A0%95+%EC%97%B0%EC%84%B8%EB%B0%94%EB%A1%9C%EC%B9%98%EA%B3%BC"
                 target="_blank"
                 rel="noopener noreferrer"
               >
