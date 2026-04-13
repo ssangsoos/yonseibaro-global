@@ -26,7 +26,19 @@
     "badgePurpleDiamond": "パープルダイヤモンドプロバイダー",
     "badgePurpleDiamondSub": "インビザライン最上位認定",
     "badgeBranches": "院",
-    "badgeBranchesSub": "韓国全土"
+    "badgeBranchesSub": "韓国全土",
+    "card1Title": "韓国トップの矯正ネットワーク",
+    "card1Desc": "インビザライン・パープルダイヤモンド認定。全医師が延世大学で研修 — 韓国最高水準の歯科教育。",
+    "card1Stat": "14",
+    "card1StatLabel": "院 全国展開",
+    "card2Title": "海外からの患者様専門対応",
+    "card2Desc": "日本・中国・タイなど多数の海外患者様の実績。日本語で全て相談可能 — 韓国語不要。",
+    "card2Stat": "4",
+    "card2StatLabel": "言語対応",
+    "card3Title": "年1〜2回の来院でOK",
+    "card3Desc": "インビザラインなら毎月通院不要。あなたのスケジュールに合わせて治療計画を立てます。3〜6ヶ月ごと、年1回でも対応可能。",
+    "card3Stat": "3〜6",
+    "card3StatLabel": "ヶ月ごとの来院"
   },
   "trust": {
     "purpleDiamond": "パープルダイヤモンドプロバイダー",

@@ -26,7 +26,19 @@
     "badgePurpleDiamond": "紫钻级认证",
     "badgePurpleDiamondSub": "Invisalign最高等级认证",
     "badgeBranches": "家分院",
-    "badgeBranchesSub": "遍布韩国"
+    "badgeBranchesSub": "遍布韩国",
+    "card1Title": "韩国顶级矫正网络",
+    "card1Desc": "Invisalign紫钻级认证。所有医生均毕业于延世大学 — 韩国最严格的牙科培训。",
+    "card1Stat": "14",
+    "card1StatLabel": "家分院遍布全国",
+    "card2Title": "专为海外患者打造",
+    "card2Desc": "来自日本、中国、泰国等地的大量患者。全程中文咨询 — 无需韩语。",
+    "card2Stat": "4",
+    "card2StatLabel": "种语言服务",
+    "card3Title": "每年只需来访1-2次",
+    "card3Desc": "Invisalign无需每月就诊。根据您的行程安排治疗计划 — 每3-6个月来一次，每年一次也可以。",
+    "card3Stat": "3-6",
+    "card3StatLabel": "个月间隔就诊"
   },
   "trust": {
     "purpleDiamond": "紫钻级认证",

@@ -121,20 +121,45 @@ button { cursor: pointer; font-family: var(--font-body); border: none; backgroun
   background: radial-gradient(circle, rgba(107,79,160,.3) 0%, transparent 65%);
   pointer-events: none;
 }
-.hero-top { display: flex; align-items: flex-start; justify-content: space-between; gap: 40px; position: relative; z-index: 1; margin-bottom: 48px; }
-.hero-text { flex: 1; max-width: 600px; }
-.hero-badges-side { display: flex; flex-direction: column; gap: 14px; flex-shrink: 0; padding-top: 20px; }
-.hero-badge-inline {
-  background: var(--white); border-radius: var(--r-md);
-  box-shadow: var(--shadow-lg); padding: 14px 18px;
-  display: flex; align-items: center; gap: 11px;
+.hero-headline { position: relative; z-index: 1; margin-bottom: 40px; text-align: center; max-width: 680px; margin-left: auto; margin-right: auto; }
+.hero-headline .origin-pills { justify-content: center; }
+.hero-headline .label { text-align: center; }
+.hero-headline .hero-title { text-align: center; }
+.hero-headline .h1 { text-align: center; }
+.hero-headline .hero-sub { margin-left: auto; margin-right: auto; text-align: center; }
+.hero-headline .hero-btns { justify-content: center; }
+.hero-headline .hero-note { text-align: center; }
+
+/* Hero highlight cards */
+.hero-cards {
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px;
+  position: relative; z-index: 1; margin-bottom: 40px;
 }
-.hero-badge-purple {
-  background: var(--purple); color: var(--white);
-  flex-direction: row; text-align: left; gap: 12px;
+.hero-card {
+  background: rgba(255,255,255,.06); border: 1px solid rgba(255,255,255,.1);
+  border-radius: var(--r-md); padding: 22px 20px;
+  display: flex; flex-direction: column; justify-content: space-between; gap: 16px;
+  transition: background .2s, border-color .2s;
 }
-.hero-badge-purple .badge-num { font-family: var(--font-display); font-size: 2.4rem; font-weight: 600; line-height: 1; }
-.hero-badge-purple .badge-desc { font-size: 12px; opacity: .75; }
+.hero-card:hover { background: rgba(255,255,255,.1); border-color: rgba(255,255,255,.2); }
+.hero-card-left { display: flex; gap: 12px; align-items: flex-start; }
+.hero-card-icon {
+  width: 36px; height: 36px; border-radius: 50%;
+  background: rgba(107,79,160,.3); color: var(--purple-soft);
+  display: flex; align-items: center; justify-content: center; flex-shrink: 0;
+}
+.hero-card-icon svg { width: 18px; height: 18px; }
+.hero-card-title { display: block; font-size: 14px; font-weight: 700; color: var(--white); margin-bottom: 6px; }
+.hero-card-desc { font-size: 12.5px; color: rgba(255,255,255,.5); line-height: 1.55; }
+.hero-card-stat {
+  display: flex; align-items: baseline; gap: 8px;
+  padding-top: 14px; border-top: 1px solid rgba(255,255,255,.08);
+}
+.hero-card-num {
+  font-family: var(--font-display); font-size: 2rem; font-weight: 600;
+  color: var(--purple-soft); line-height: 1;
+}
+.hero-card-label { font-size: 12px; color: rgba(255,255,255,.4); }
 .origin-pills { display: flex; flex-wrap: wrap; gap: 7px; margin-bottom: 20px; }
 .origin-pill { font-size: 12px; font-weight: 500; color: rgba(255,255,255,.72); background: rgba(255,255,255,.08); border: 1px solid rgba(255,255,255,.12); border-radius: 100px; padding: 4px 11px; }
 .hero-title { margin-bottom: 22px; }
@@ -358,8 +383,7 @@ button { cursor: pointer; font-family: var(--font-body); border: none; backgroun
 
 /* ══ RESPONSIVE ══ */
 @media (max-width: 960px) {
-  .hero-top { flex-direction: column; gap: 24px; }
-  .hero-badges-side { flex-direction: row; flex-wrap: wrap; }
+  .hero-cards { grid-template-columns: 1fr; }
   .hero-photo-wide { aspect-ratio: 16/7; }
   .hero-grid { grid-template-columns: 1fr; gap: 40px; }
   .hero-visual { order: -1; }

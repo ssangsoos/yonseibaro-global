@@ -26,7 +26,19 @@
     "badgePurpleDiamond": "Purple Diamond Provider",
     "badgePurpleDiamondSub": "Invisalign top-tier certified",
     "badgeBranches": "Branches",
-    "badgeBranchesSub": "across Korea"
+    "badgeBranchesSub": "across Korea",
+    "card1Title": "Korea's Top Orthodontic Network",
+    "card1Desc": "Invisalign Purple Diamond Provider. All doctors trained at Yonsei University — Korea's most rigorous dental program.",
+    "card1Stat": "14",
+    "card1StatLabel": "branches nationwide",
+    "card2Title": "Built for International Patients",
+    "card2Desc": "Thousands of patients from Japan, China, Thailand and beyond. Full consultation in your language — no Korean needed.",
+    "card2Stat": "4",
+    "card2StatLabel": "languages supported",
+    "card3Title": "Visit Only 1–2 Times a Year",
+    "card3Desc": "With Invisalign, you don't need monthly visits. We plan your entire treatment around your schedule — come every 3–6 months. Once a year is even possible.",
+    "card3Stat": "3–6",
+    "card3StatLabel": "months between visits"
   },
   "trust": {
     "purpleDiamond": "Purple Diamond Provider",

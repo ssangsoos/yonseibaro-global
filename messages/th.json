@@ -26,7 +26,19 @@
     "badgePurpleDiamond": "Purple Diamond Provider",
     "badgePurpleDiamondSub": "ได้รับการรับรองสูงสุดจาก Invisalign",
     "badgeBranches": "สาขา",
-    "badgeBranchesSub": "ทั่วเกาหลี"
+    "badgeBranchesSub": "ทั่วเกาหลี",
+    "card1Title": "เครือข่ายจัดฟันอันดับ 1 ของเกาหลี",
+    "card1Desc": "ได้รับการรับรอง Invisalign Purple Diamond แพทย์ทุกคนจบจากมหาวิทยาลัย Yonsei — โปรแกรมทันตกรรมที่เข้มงวดที่สุด",
+    "card1Stat": "14",
+    "card1StatLabel": "สาขาทั่วประเทศ",
+    "card2Title": "รองรับผู้ป่วยต่างชาติโดยเฉพาะ",
+    "card2Desc": "ผู้ป่วยจำนวนมากจากญี่ปุ่น จีน ไทย และทั่วโลก ให้คำปรึกษาเป็นภาษาของคุณ — ไม่ต้องพูดเกาหลี",
+    "card2Stat": "4",
+    "card2StatLabel": "ภาษาที่รองรับ",
+    "card3Title": "มาเพียง 1-2 ครั้งต่อปี",
+    "card3Desc": "Invisalign ไม่ต้องมาทุกเดือน เราวางแผนการรักษาตามตารางของคุณ — มาทุก 3-6 เดือน หรือปีละครั้งก็ได้",
+    "card3Stat": "3-6",
+    "card3StatLabel": "เดือนระหว่างนัด"
   },
   "trust": {
     "purpleDiamond": "Purple Diamond Provider",
